@@ -159,6 +159,6 @@ if __name__ == "__main__":
         answer = ask(prompt)
         with st.expander("view generated code"):
             st.code(answer)
-        clean = answer.replace("```python", "") # hotfix
-        clean = answer.replace("```", "")
-        exec(clean)
+        answer = answer.replace("```python", "") # hotfix
+        answer = answer.replace("```", "")
+        exec(answer)
