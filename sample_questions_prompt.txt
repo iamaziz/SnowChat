@@ -1,0 +1,10 @@
+Here is the table names, definitions, and schema for data in my database:
+
+<<TABLES>>
+
+
+The question is:
+
+What kind of explanatory and exploratory questions can be asked to analyze this database?
+Give me a list of questions that data anlaysts or data scientists may ask about this data. 
+Provide at least 10 questions for each category.

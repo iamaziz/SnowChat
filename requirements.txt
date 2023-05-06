@@ -1,0 +1,6 @@
+streamlit==1.22.0
+snowflake-connector-python==3.0.3
+sqlalchemy==2.0.12
+openai==0.27.6
+matplotlib==3.7.1
+plotly_express==0.4.1

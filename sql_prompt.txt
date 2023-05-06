@@ -1,0 +1,14 @@
+You will act as SQL query generator. 
+I will provide the definition of the database tables and you will curate a SQL query to answer the question I ask. 
+Here is the table names and their schema:
+
+<<TABLES>>
+
+
+The question is:
+
+<<QUESTION>>
+
+Note:
+
+The answer should be just a sql query without any explanation.
