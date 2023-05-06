@@ -161,4 +161,4 @@ if __name__ == "__main__":
             st.code(answer)
         clean = answer.replace("```python", "") # hotfix
         clean = answer.replace("```", "")
-        exec(answer)
+        exec(clean)
