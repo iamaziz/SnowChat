@@ -2,7 +2,7 @@
 
 [![Open in Streamlit][share_badge]][share_link]
 
-Connect to your Snowflake database to ask questions (in natural langauge) about your data, and get answers in real-time with visualization supported. Powered by `Streamlit` and `GPT-4`.
+Connect to your Snowflake database to ask questions (in natural langauge) about your data, and get answers in real-time with visualization supported. Built with `Streamlit` and powered by `GPT-4`.
 
 
 [share_badge]: https://static.streamlit.io/badges/streamlit_badge_black_white.svg
